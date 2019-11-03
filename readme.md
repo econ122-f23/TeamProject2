@@ -18,7 +18,7 @@ The first 51 variables in this data frame contain county-level demographic and e
 
 ### To do:
 
-Use the training data to create classification model for `winner16`. I'll be judging your predictions based on your accuracy.
+Use the training data to create a classification model for `winner16`. I'll be judging your predictions based on your accuracy.
 
 -   Rename the main variables you are using so that they are easier to interpret
 -   If possible, describe which variables are the most important predictors
