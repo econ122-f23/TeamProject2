@@ -24,7 +24,7 @@ Use the training data to create a classification model for `winner16`. I'll be j
 -   If possible, describe which variables are the most important predictors
 -   Use validation or cross-validation with the training data to avoid overfitting your model to the (entire) training data set which could produce a poor fit to the new test data.
 -   If you consider methods like k-nn, decision trees or random forests, try playing around with their parameter values (like k, cp, or mtry) to find a more accurate model.
--   You don't need to include all 51 predictors in your model/method.
+-   You don't **need** to include all 51 predictors in your model/method, but you certainly can.
 
 ### Turn in:
 
